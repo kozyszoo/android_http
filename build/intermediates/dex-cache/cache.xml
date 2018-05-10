@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/koji/API/android_http/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/koji/API/android_http/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fad3704d7fcbd6dc6c77658bf474938e088ad7e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/koji/API/android_http/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="98dd4a8651359d586446690161db56b798d829fa">
+        <dex dex="/Users/koji/API/android_http/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bfce09627b0f569f4f42d49fdb0f8337c0ba7bb6/classes.dex" />
+    </item>
+
+</items>
